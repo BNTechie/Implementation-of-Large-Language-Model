@@ -14,3 +14,4 @@ This involves:
 ##### Deploying the Model
 
 After fine-tuning, the model can be saved and deployed for real-time use. The tutorial demonstrates how to save the model and load it for inference to perform tasks like sentiment analysis on new text inputs.
+See [Jupyter Notebook](https://github.com/BhadraNivedita/LLM-with-example-code/blob/main/LLM_example.ipynb)
